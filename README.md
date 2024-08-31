@@ -8,38 +8,6 @@ Archived repo. Development moved to https://github.com/r-lyeh/FWK
 <img src="https://i.imgur.com/sInbRoA.gif"/><br/>
 </p>
 
-## Gallery
-<p align="center">
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/00-hello.png"     width="204px" title="Hello"/>     
-<!--img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/00-demo.png"      width="204px" title="Demo"/-->    
-<!--img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-audio.png"     width="204px" title="Audio"/-->     
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-cubemap.png"   width="204px" title="Cubemap"/>       
-<!--img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-easing.png"    width="204px" title="Easing"/-->      
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-font.png"      width="204px" title="Font"/>    
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-instanced.png" width="204px" title="Instanced"/>         
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-material.png"  width="204px" title="Material"/>        
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-script.png"    width="204px" title="Script"/>      
-<!--img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-spine.png"     width="204px" title="Spine"/-->     
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-sprite.png"    width="204px" title="Sprite"/>      
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/99-video.png"     width="204px" title="Video"/>     
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/04-actor.png"     width="204px" title="Actor"/>     
-
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/00-ui.png"        width="204px" title="Hello UI: config, window, system, ui, video"/>
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/01-sprite.png"    width="204px" title="Sprites: window, audio, camera, font, tiled, render, fx, spritesheet, input, ui."/>
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/02-ddraw.png"     width="204px" title="DebugDraw: camera, renderdd, collide, math, ui, boids"/>
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/03-anims.png"     width="204px" title="Anims."/>
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/05-scene.png"     width="204px" title="Scene."/>
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/06-pbr.png"       width="204px" title="PBR."/>
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/demos/07-network.png"   width="204px" title="Network."/>
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/tools/editor/editor.png" width="204px" title="Editor."/>
-<br/>
-</p>
-<!--
-editor1 | editor2
-:-: | :-:
-<video src='https://user-images.githubusercontent.com/35402248/174457347-f787a6a2-aac8-404c-a5da-f44310c3d432.mp4' width=180></video> | <video src='https://user-images.githubusercontent.com/35402248/174457144-40098726-e78f-4284-be68-783ff12f350f.mp4' width=180></video>
--->
-
 ## Goals
 - [x] ~~C++~~. C.
 - [x] ~~Fast~~. Naive.
@@ -245,8 +213,4 @@ This software is released into the [public domain](https://unlicense.org/). Also
 
 Still looking for alternatives?
 [amulet](https://github.com/ianmaclarty/amulet), [aroma](https://github.com/leafo/aroma/), [astera](https://github.com/tek256/astera), [blendelf](https://github.com/jesterKing/BlendELF), [bullordengine](https://github.com/MarilynDafa/Bulllord-Engine), [candle](https://github.com/EvilPudding/candle), [cave](https://github.com/kieselsteini/cave), [chickpea](https://github.com/ivansafrin/chickpea), [corange](https://github.com/orangeduck/Corange), [cute](https://github.com/RandyGaul/cute_framework), [dos-like](https://github.com/mattiasgustavsson/dos-like), [ejoy2d](https://github.com/ejoy/ejoy2d), [exengine](https://github.com/exezin/exengine), [gunslinger](https://github.com/MrFrenik/gunslinger), [hate](https://github.com/excessive/hate), [island](https://github.com/island-org/island), [juno](https://github.com/rxi/juno), [l](https://github.com/Lyatus/L), [lgf](https://github.com/Planimeter/lgf), [limbus](https://github.com/redien/limbus), [love](https://github.com/love2d/love/), [lovr](https://github.com/bjornbytes/lovr), [mini3d](https://github.com/mini3d/mini3d), [mintaro](https://github.com/mackron/mintaro), [mio](https://github.com/ccxvii/mio), [olive.c](https://github.com/tsoding/olive.c), [opensource](https://github.com/w23/OpenSource), [ouzel](https://github.com/elnormous/ouzel/), [pez](https://github.com/prideout/pez), [pixie](https://github.com/mattiasgustavsson/pixie), [punity](https://github.com/martincohen/Punity), [r96](https://github.com/badlogic/r96), [ricotech](https://github.com/dbechrd/RicoTech), [rizz](https://github.com/septag/rizz), [tigr](https://github.com/erkkah/tigr), [yourgamelib](https://github.com/duddel/yourgamelib)
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/r-lyeh/FWK.2022/master/tools/editor/logos/grid_4.png.removebg.png" width="512" height="512"/><br/>
 </p>
